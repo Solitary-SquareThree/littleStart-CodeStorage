@@ -16,3 +16,9 @@ E:\TEST\test2010C#\AForge\Release\AForge.Math.xml
 E:\TEST\test2010C#\AForge\Sources\Math\obj\Debug\ResolveAssemblyReference.cache
 E:\TEST\test2010C#\AForge\Sources\Math\obj\Debug\AForge.Math.dll
 E:\TEST\test2010C#\AForge\Sources\Math\obj\Debug\AForge.Math.pdb
+E:\GitHub\littleStart-CodeStorage\Release\AForge.Math.dll
+E:\GitHub\littleStart-CodeStorage\Release\AForge.Math.pdb
+E:\GitHub\littleStart-CodeStorage\Release\AForge.Math.xml
+E:\GitHub\littleStart-CodeStorage\AForge-Source\Math\obj\Debug\Math.csprojResolveAssemblyReference.cache
+E:\GitHub\littleStart-CodeStorage\AForge-Source\Math\obj\Debug\AForge.Math.dll
+E:\GitHub\littleStart-CodeStorage\AForge-Source\Math\obj\Debug\AForge.Math.pdb

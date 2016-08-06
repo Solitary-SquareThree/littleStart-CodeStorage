@@ -16,3 +16,9 @@ E:\TEST\test2010C#\AForge\Release\AForge.Video.VFW.xml
 E:\TEST\test2010C#\AForge\Sources\Video.VFW\obj\Debug\ResolveAssemblyReference.cache
 E:\TEST\test2010C#\AForge\Sources\Video.VFW\obj\Debug\AForge.Video.VFW.dll
 E:\TEST\test2010C#\AForge\Sources\Video.VFW\obj\Debug\AForge.Video.VFW.pdb
+E:\GitHub\littleStart-CodeStorage\Release\AForge.Video.VFW.dll
+E:\GitHub\littleStart-CodeStorage\Release\AForge.Video.VFW.pdb
+E:\GitHub\littleStart-CodeStorage\Release\AForge.Video.VFW.xml
+E:\GitHub\littleStart-CodeStorage\AForge-Source\Video.VFW\obj\Debug\Video.VFW.csprojResolveAssemblyReference.cache
+E:\GitHub\littleStart-CodeStorage\AForge-Source\Video.VFW\obj\Debug\AForge.Video.VFW.dll
+E:\GitHub\littleStart-CodeStorage\AForge-Source\Video.VFW\obj\Debug\AForge.Video.VFW.pdb

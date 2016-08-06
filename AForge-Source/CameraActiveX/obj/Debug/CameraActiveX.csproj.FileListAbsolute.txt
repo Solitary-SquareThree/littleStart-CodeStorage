@@ -7,3 +7,11 @@ E:\TEST\test2010C#\AForge\Sources\CameraActiveX\obj\Debug\GenerateResource-ResGe
 E:\TEST\test2010C#\AForge\Sources\CameraActiveX\obj\Debug\GenerateResource-ResGen.write.1.tlog
 E:\TEST\test2010C#\AForge\Sources\CameraActiveX\obj\Debug\CameraActiveX.dll
 E:\TEST\test2010C#\AForge\Sources\CameraActiveX\obj\Debug\CameraActiveX.pdb
+E:\GitHub\littleStart-CodeStorage\Release\CameraActiveX.dll
+E:\GitHub\littleStart-CodeStorage\Release\CameraActiveX.pdb
+E:\GitHub\littleStart-CodeStorage\AForge-Source\CameraActiveX\obj\Debug\CameraActiveX.csprojResolveAssemblyReference.cache
+E:\GitHub\littleStart-CodeStorage\AForge-Source\CameraActiveX\obj\Debug\CameraActiveX.UCCameraPlayer.resources
+E:\GitHub\littleStart-CodeStorage\AForge-Source\CameraActiveX\obj\Debug\CameraActiveX.csproj.GenerateResource.Cache
+E:\GitHub\littleStart-CodeStorage\AForge-Source\CameraActiveX\obj\Debug\CameraActiveX.dll
+E:\GitHub\littleStart-CodeStorage\AForge-Source\CameraActiveX\obj\Debug\CameraActiveX.pdb
+E:\GitHub\littleStart-CodeStorage\Release\CameraActiveX.tlb

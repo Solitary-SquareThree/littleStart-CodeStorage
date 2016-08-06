@@ -16,3 +16,9 @@ E:\TEST\test2010C#\AForge\Release\AForge.xml
 E:\TEST\test2010C#\AForge\Sources\Core\obj\Debug\ResolveAssemblyReference.cache
 E:\TEST\test2010C#\AForge\Sources\Core\obj\Debug\AForge.dll
 E:\TEST\test2010C#\AForge\Sources\Core\obj\Debug\AForge.pdb
+E:\GitHub\littleStart-CodeStorage\Release\AForge.dll
+E:\GitHub\littleStart-CodeStorage\Release\AForge.pdb
+E:\GitHub\littleStart-CodeStorage\Release\AForge.xml
+E:\GitHub\littleStart-CodeStorage\AForge-Source\Core\obj\Debug\Core.csprojResolveAssemblyReference.cache
+E:\GitHub\littleStart-CodeStorage\AForge-Source\Core\obj\Debug\AForge.dll
+E:\GitHub\littleStart-CodeStorage\AForge-Source\Core\obj\Debug\AForge.pdb

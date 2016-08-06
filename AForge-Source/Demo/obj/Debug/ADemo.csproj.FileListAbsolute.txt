@@ -8,3 +8,11 @@ E:\TEST\test2010C#\AForge\Sources\Demo\obj\Debug\Demo.exe
 E:\TEST\test2010C#\AForge\Sources\Demo\obj\Debug\Demo.pdb
 E:\TEST\test2010C#\AForge\Sources\Demo\obj\Debug\Demo.Form1.resources
 E:\TEST\test2010C#\AForge\Sources\Demo\obj\Debug\GenerateResource-ResGen.read.4.tlog
+E:\GitHub\littleStart-CodeStorage\AForge-Source\Demo\obj\Debug\Demo.exe
+E:\GitHub\littleStart-CodeStorage\AForge-Source\Demo\obj\Debug\Demo.pdb
+E:\GitHub\littleStart-CodeStorage\Release\Demo.exe
+E:\GitHub\littleStart-CodeStorage\Release\Demo.pdb
+E:\GitHub\littleStart-CodeStorage\AForge-Source\Demo\obj\Debug\ADemo.csprojResolveAssemblyReference.cache
+E:\GitHub\littleStart-CodeStorage\AForge-Source\Demo\obj\Debug\Demo.Form1.resources
+E:\GitHub\littleStart-CodeStorage\AForge-Source\Demo\obj\Debug\Demo.Properties.Resources.resources
+E:\GitHub\littleStart-CodeStorage\AForge-Source\Demo\obj\Debug\ADemo.csproj.GenerateResource.Cache

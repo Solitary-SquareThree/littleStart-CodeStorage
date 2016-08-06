@@ -31,3 +31,12 @@ E:\TEST\test2010C#\AForge\Sources\Video.DirectShow\obj\Debug\GenerateResource-Re
 E:\TEST\test2010C#\AForge\Sources\Video.DirectShow\obj\Debug\GenerateResource-ResGen.write.1.tlog
 E:\TEST\test2010C#\AForge\Sources\Video.DirectShow\obj\Debug\AForge.Video.DirectShow.dll
 E:\TEST\test2010C#\AForge\Sources\Video.DirectShow\obj\Debug\AForge.Video.DirectShow.pdb
+E:\GitHub\littleStart-CodeStorage\Release\AForge.Video.DirectShow.dll
+E:\GitHub\littleStart-CodeStorage\Release\AForge.Video.DirectShow.pdb
+E:\GitHub\littleStart-CodeStorage\Release\AForge.Video.DirectShow.xml
+E:\GitHub\littleStart-CodeStorage\AForge-Source\Video.DirectShow\obj\Debug\Video.DirectShow.csprojResolveAssemblyReference.cache
+E:\GitHub\littleStart-CodeStorage\AForge-Source\Video.DirectShow\obj\Debug\AForge.Video.DirectShow.Properties.Resources.resources
+E:\GitHub\littleStart-CodeStorage\AForge-Source\Video.DirectShow\obj\Debug\AForge.Video.DirectShow.VideoCaptureDeviceForm.resources
+E:\GitHub\littleStart-CodeStorage\AForge-Source\Video.DirectShow\obj\Debug\Video.DirectShow.csproj.GenerateResource.Cache
+E:\GitHub\littleStart-CodeStorage\AForge-Source\Video.DirectShow\obj\Debug\AForge.Video.DirectShow.dll
+E:\GitHub\littleStart-CodeStorage\AForge-Source\Video.DirectShow\obj\Debug\AForge.Video.DirectShow.pdb

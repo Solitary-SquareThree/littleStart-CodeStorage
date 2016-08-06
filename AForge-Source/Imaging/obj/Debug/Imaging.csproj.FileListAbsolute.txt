@@ -16,3 +16,9 @@ E:\TEST\test2010C#\AForge\Release\AForge.Imaging.xml
 E:\TEST\test2010C#\AForge\Sources\Imaging\obj\Debug\ResolveAssemblyReference.cache
 E:\TEST\test2010C#\AForge\Sources\Imaging\obj\Debug\AForge.Imaging.dll
 E:\TEST\test2010C#\AForge\Sources\Imaging\obj\Debug\AForge.Imaging.pdb
+E:\GitHub\littleStart-CodeStorage\Release\AForge.Imaging.dll
+E:\GitHub\littleStart-CodeStorage\Release\AForge.Imaging.pdb
+E:\GitHub\littleStart-CodeStorage\Release\AForge.Imaging.xml
+E:\GitHub\littleStart-CodeStorage\AForge-Source\Imaging\obj\Debug\Imaging.csprojResolveAssemblyReference.cache
+E:\GitHub\littleStart-CodeStorage\AForge-Source\Imaging\obj\Debug\AForge.Imaging.dll
+E:\GitHub\littleStart-CodeStorage\AForge-Source\Imaging\obj\Debug\AForge.Imaging.pdb

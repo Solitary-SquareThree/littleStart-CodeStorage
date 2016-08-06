@@ -43,3 +43,17 @@ E:\TEST\test2010C#\AForge\Sources\Controls\obj\Debug\GenerateResource-ResGen.rea
 E:\TEST\test2010C#\AForge\Sources\Controls\obj\Debug\GenerateResource-ResGen.write.1.tlog
 E:\TEST\test2010C#\AForge\Sources\Controls\obj\Debug\AForge.Controls.dll
 E:\TEST\test2010C#\AForge\Sources\Controls\obj\Debug\AForge.Controls.pdb
+E:\GitHub\littleStart-CodeStorage\Release\AForge.Controls.dll
+E:\GitHub\littleStart-CodeStorage\Release\AForge.Controls.pdb
+E:\GitHub\littleStart-CodeStorage\Release\AForge.Controls.xml
+E:\GitHub\littleStart-CodeStorage\AForge-Source\Controls\obj\Debug\Controls.csprojResolveAssemblyReference.cache
+E:\GitHub\littleStart-CodeStorage\AForge-Source\Controls\obj\Debug\AForge.Controls.Chart.resources
+E:\GitHub\littleStart-CodeStorage\AForge-Source\Controls\obj\Debug\AForge.Controls.HistogramEventArgs.resources
+E:\GitHub\littleStart-CodeStorage\AForge-Source\Controls\obj\Debug\AForge.Controls.VideoSourcePlayer.resources
+E:\GitHub\littleStart-CodeStorage\AForge-Source\Controls\obj\Debug\AForge.Controls.HuePicker.resources
+E:\GitHub\littleStart-CodeStorage\AForge-Source\Controls\obj\Debug\AForge.Controls.SliderControl.resources
+E:\GitHub\littleStart-CodeStorage\AForge-Source\Controls\obj\Debug\AForge.Controls.ColorSlider.resources
+E:\GitHub\littleStart-CodeStorage\AForge-Source\Controls\obj\Debug\AForge.Controls.ManipulatorControl.resources
+E:\GitHub\littleStart-CodeStorage\AForge-Source\Controls\obj\Debug\Controls.csproj.GenerateResource.Cache
+E:\GitHub\littleStart-CodeStorage\AForge-Source\Controls\obj\Debug\AForge.Controls.dll
+E:\GitHub\littleStart-CodeStorage\AForge-Source\Controls\obj\Debug\AForge.Controls.pdb
