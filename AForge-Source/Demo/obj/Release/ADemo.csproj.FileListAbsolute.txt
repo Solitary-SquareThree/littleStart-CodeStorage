@@ -1,0 +1,6 @@
+E:\TEST\test2010C#\AForge\Release\Demo.exe
+E:\TEST\test2010C#\AForge\Sources\Demo\obj\Release\ResolveAssemblyReference.cache
+E:\TEST\test2010C#\AForge\Sources\Demo\obj\Release\Demo.Properties.Resources.resources
+E:\TEST\test2010C#\AForge\Sources\Demo\obj\Release\GenerateResource-ResGen.read.1.tlog
+E:\TEST\test2010C#\AForge\Sources\Demo\obj\Release\GenerateResource-ResGen.write.1.tlog
+E:\TEST\test2010C#\AForge\Sources\Demo\obj\Release\Demo.exe

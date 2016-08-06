@@ -1,0 +1,6 @@
+C:\Documents and Settings\Administrator\桌面\摄像头资料\AForge.NET Framework-2.2.4\Release\AForge.Video.Kinect.dll
+C:\Documents and Settings\Administrator\桌面\摄像头资料\AForge.NET Framework-2.2.4\Release\AForge.Video.Kinect.pdb
+C:\Documents and Settings\Administrator\桌面\摄像头资料\AForge.NET Framework-2.2.4\Release\AForge.Video.Kinect.xml
+C:\Documents and Settings\Administrator\桌面\摄像头资料\AForge.NET Framework-2.2.4\Sources\Video.Kinect\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\摄像头资料\AForge.NET Framework-2.2.4\Sources\Video.Kinect\obj\Debug\AForge.Video.Kinect.dll
+C:\Documents and Settings\Administrator\桌面\摄像头资料\AForge.NET Framework-2.2.4\Sources\Video.Kinect\obj\Debug\AForge.Video.Kinect.pdb

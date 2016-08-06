@@ -1,0 +1,18 @@
+C:\Documents and Settings\Administrator\桌面\摄像头资料\AForge.NET Framework-2.2.4\Release\AForge.Video.VFW.dll
+C:\Documents and Settings\Administrator\桌面\摄像头资料\AForge.NET Framework-2.2.4\Release\AForge.Video.VFW.pdb
+C:\Documents and Settings\Administrator\桌面\摄像头资料\AForge.NET Framework-2.2.4\Release\AForge.Video.VFW.xml
+C:\Documents and Settings\Administrator\桌面\摄像头资料\AForge.NET Framework-2.2.4\Sources\Video.VFW\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\摄像头资料\AForge.NET Framework-2.2.4\Sources\Video.VFW\obj\Debug\AForge.Video.VFW.dll
+C:\Documents and Settings\Administrator\桌面\摄像头资料\AForge.NET Framework-2.2.4\Sources\Video.VFW\obj\Debug\AForge.Video.VFW.pdb
+E:\TEST\test2010C#\Release\AForge.Video.VFW.dll
+E:\TEST\test2010C#\Release\AForge.Video.VFW.pdb
+E:\TEST\test2010C#\Release\AForge.Video.VFW.xml
+E:\TEST\test2010C#\Sources\Video.VFW\obj\Debug\ResolveAssemblyReference.cache
+E:\TEST\test2010C#\Sources\Video.VFW\obj\Debug\AForge.Video.VFW.dll
+E:\TEST\test2010C#\Sources\Video.VFW\obj\Debug\AForge.Video.VFW.pdb
+E:\TEST\test2010C#\AForge\Release\AForge.Video.VFW.dll
+E:\TEST\test2010C#\AForge\Release\AForge.Video.VFW.pdb
+E:\TEST\test2010C#\AForge\Release\AForge.Video.VFW.xml
+E:\TEST\test2010C#\AForge\Sources\Video.VFW\obj\Debug\ResolveAssemblyReference.cache
+E:\TEST\test2010C#\AForge\Sources\Video.VFW\obj\Debug\AForge.Video.VFW.dll
+E:\TEST\test2010C#\AForge\Sources\Video.VFW\obj\Debug\AForge.Video.VFW.pdb

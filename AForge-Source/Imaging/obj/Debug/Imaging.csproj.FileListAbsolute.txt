@@ -1,0 +1,18 @@
+C:\Documents and Settings\Administrator\桌面\摄像头资料\AForge.NET Framework-2.2.4\Release\AForge.Imaging.dll
+C:\Documents and Settings\Administrator\桌面\摄像头资料\AForge.NET Framework-2.2.4\Release\AForge.Imaging.pdb
+C:\Documents and Settings\Administrator\桌面\摄像头资料\AForge.NET Framework-2.2.4\Release\AForge.Imaging.xml
+C:\Documents and Settings\Administrator\桌面\摄像头资料\AForge.NET Framework-2.2.4\Sources\Imaging\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\摄像头资料\AForge.NET Framework-2.2.4\Sources\Imaging\obj\Debug\AForge.Imaging.dll
+C:\Documents and Settings\Administrator\桌面\摄像头资料\AForge.NET Framework-2.2.4\Sources\Imaging\obj\Debug\AForge.Imaging.pdb
+E:\TEST\test2010C#\Release\AForge.Imaging.dll
+E:\TEST\test2010C#\Release\AForge.Imaging.pdb
+E:\TEST\test2010C#\Release\AForge.Imaging.xml
+E:\TEST\test2010C#\Sources\Imaging\obj\Debug\ResolveAssemblyReference.cache
+E:\TEST\test2010C#\Sources\Imaging\obj\Debug\AForge.Imaging.dll
+E:\TEST\test2010C#\Sources\Imaging\obj\Debug\AForge.Imaging.pdb
+E:\TEST\test2010C#\AForge\Release\AForge.Imaging.dll
+E:\TEST\test2010C#\AForge\Release\AForge.Imaging.pdb
+E:\TEST\test2010C#\AForge\Release\AForge.Imaging.xml
+E:\TEST\test2010C#\AForge\Sources\Imaging\obj\Debug\ResolveAssemblyReference.cache
+E:\TEST\test2010C#\AForge\Sources\Imaging\obj\Debug\AForge.Imaging.dll
+E:\TEST\test2010C#\AForge\Sources\Imaging\obj\Debug\AForge.Imaging.pdb

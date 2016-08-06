@@ -1,0 +1,11 @@
+E:\TEST\test2010C#\AForge\Release\AForge.Video.DirectShow.dll
+E:\TEST\test2010C#\AForge\Release\AForge.Video.DirectShow.pdb
+E:\TEST\test2010C#\AForge\Release\AForge.Video.DirectShow.xml
+E:\TEST\test2010C#\AForge\Sources\Video.DirectShow\obj\Release\ResolveAssemblyReference.cache
+E:\TEST\test2010C#\AForge\Sources\Video.DirectShow\obj\Release\AForge.Video.DirectShow.Properties.Resources.resources
+E:\TEST\test2010C#\AForge\Sources\Video.DirectShow\obj\Release\AForge.Video.DirectShow.VideoCaptureDeviceForm.resources
+E:\TEST\test2010C#\AForge\Sources\Video.DirectShow\obj\Release\GenerateResource-ResGen.read.1.tlog
+E:\TEST\test2010C#\AForge\Sources\Video.DirectShow\obj\Release\GenerateResource-ResGen.read.4.tlog
+E:\TEST\test2010C#\AForge\Sources\Video.DirectShow\obj\Release\GenerateResource-ResGen.write.1.tlog
+E:\TEST\test2010C#\AForge\Sources\Video.DirectShow\obj\Release\AForge.Video.DirectShow.dll
+E:\TEST\test2010C#\AForge\Sources\Video.DirectShow\obj\Release\AForge.Video.DirectShow.pdb

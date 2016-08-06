@@ -1,0 +1,33 @@
+C:\Documents and Settings\Administrator\桌面\摄像头资料\AForge.NET Framework-2.2.4\Release\AForge.Video.DirectShow.dll
+C:\Documents and Settings\Administrator\桌面\摄像头资料\AForge.NET Framework-2.2.4\Release\AForge.Video.DirectShow.pdb
+C:\Documents and Settings\Administrator\桌面\摄像头资料\AForge.NET Framework-2.2.4\Release\AForge.Video.DirectShow.xml
+C:\Documents and Settings\Administrator\桌面\摄像头资料\AForge.NET Framework-2.2.4\Sources\Video.DirectShow\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\摄像头资料\AForge.NET Framework-2.2.4\Sources\Video.DirectShow\obj\Debug\AForge.Video.DirectShow.Properties.Resources.resources
+C:\Documents and Settings\Administrator\桌面\摄像头资料\AForge.NET Framework-2.2.4\Sources\Video.DirectShow\obj\Debug\AForge.Video.DirectShow.VideoCaptureDeviceForm.resources
+C:\Documents and Settings\Administrator\桌面\摄像头资料\AForge.NET Framework-2.2.4\Sources\Video.DirectShow\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Documents and Settings\Administrator\桌面\摄像头资料\AForge.NET Framework-2.2.4\Sources\Video.DirectShow\obj\Debug\GenerateResource-ResGen.read.4.tlog
+C:\Documents and Settings\Administrator\桌面\摄像头资料\AForge.NET Framework-2.2.4\Sources\Video.DirectShow\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Documents and Settings\Administrator\桌面\摄像头资料\AForge.NET Framework-2.2.4\Sources\Video.DirectShow\obj\Debug\AForge.Video.DirectShow.dll
+C:\Documents and Settings\Administrator\桌面\摄像头资料\AForge.NET Framework-2.2.4\Sources\Video.DirectShow\obj\Debug\AForge.Video.DirectShow.pdb
+E:\TEST\test2010C#\Release\AForge.Video.DirectShow.dll
+E:\TEST\test2010C#\Release\AForge.Video.DirectShow.pdb
+E:\TEST\test2010C#\Release\AForge.Video.DirectShow.xml
+E:\TEST\test2010C#\Sources\Video.DirectShow\obj\Debug\ResolveAssemblyReference.cache
+E:\TEST\test2010C#\Sources\Video.DirectShow\obj\Debug\AForge.Video.DirectShow.Properties.Resources.resources
+E:\TEST\test2010C#\Sources\Video.DirectShow\obj\Debug\AForge.Video.DirectShow.VideoCaptureDeviceForm.resources
+E:\TEST\test2010C#\Sources\Video.DirectShow\obj\Debug\GenerateResource-ResGen.read.1.tlog
+E:\TEST\test2010C#\Sources\Video.DirectShow\obj\Debug\GenerateResource-ResGen.read.4.tlog
+E:\TEST\test2010C#\Sources\Video.DirectShow\obj\Debug\GenerateResource-ResGen.write.1.tlog
+E:\TEST\test2010C#\Sources\Video.DirectShow\obj\Debug\AForge.Video.DirectShow.dll
+E:\TEST\test2010C#\Sources\Video.DirectShow\obj\Debug\AForge.Video.DirectShow.pdb
+E:\TEST\test2010C#\AForge\Release\AForge.Video.DirectShow.dll
+E:\TEST\test2010C#\AForge\Release\AForge.Video.DirectShow.pdb
+E:\TEST\test2010C#\AForge\Release\AForge.Video.DirectShow.xml
+E:\TEST\test2010C#\AForge\Sources\Video.DirectShow\obj\Debug\ResolveAssemblyReference.cache
+E:\TEST\test2010C#\AForge\Sources\Video.DirectShow\obj\Debug\AForge.Video.DirectShow.Properties.Resources.resources
+E:\TEST\test2010C#\AForge\Sources\Video.DirectShow\obj\Debug\AForge.Video.DirectShow.VideoCaptureDeviceForm.resources
+E:\TEST\test2010C#\AForge\Sources\Video.DirectShow\obj\Debug\GenerateResource-ResGen.read.1.tlog
+E:\TEST\test2010C#\AForge\Sources\Video.DirectShow\obj\Debug\GenerateResource-ResGen.read.4.tlog
+E:\TEST\test2010C#\AForge\Sources\Video.DirectShow\obj\Debug\GenerateResource-ResGen.write.1.tlog
+E:\TEST\test2010C#\AForge\Sources\Video.DirectShow\obj\Debug\AForge.Video.DirectShow.dll
+E:\TEST\test2010C#\AForge\Sources\Video.DirectShow\obj\Debug\AForge.Video.DirectShow.pdb

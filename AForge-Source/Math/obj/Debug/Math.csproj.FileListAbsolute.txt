@@ -1,0 +1,18 @@
+C:\Documents and Settings\Administrator\桌面\摄像头资料\AForge.NET Framework-2.2.4\Release\AForge.Math.dll
+C:\Documents and Settings\Administrator\桌面\摄像头资料\AForge.NET Framework-2.2.4\Release\AForge.Math.pdb
+C:\Documents and Settings\Administrator\桌面\摄像头资料\AForge.NET Framework-2.2.4\Release\AForge.Math.xml
+C:\Documents and Settings\Administrator\桌面\摄像头资料\AForge.NET Framework-2.2.4\Sources\Math\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\摄像头资料\AForge.NET Framework-2.2.4\Sources\Math\obj\Debug\AForge.Math.dll
+C:\Documents and Settings\Administrator\桌面\摄像头资料\AForge.NET Framework-2.2.4\Sources\Math\obj\Debug\AForge.Math.pdb
+E:\TEST\test2010C#\Release\AForge.Math.dll
+E:\TEST\test2010C#\Release\AForge.Math.pdb
+E:\TEST\test2010C#\Release\AForge.Math.xml
+E:\TEST\test2010C#\Sources\Math\obj\Debug\ResolveAssemblyReference.cache
+E:\TEST\test2010C#\Sources\Math\obj\Debug\AForge.Math.dll
+E:\TEST\test2010C#\Sources\Math\obj\Debug\AForge.Math.pdb
+E:\TEST\test2010C#\AForge\Release\AForge.Math.dll
+E:\TEST\test2010C#\AForge\Release\AForge.Math.pdb
+E:\TEST\test2010C#\AForge\Release\AForge.Math.xml
+E:\TEST\test2010C#\AForge\Sources\Math\obj\Debug\ResolveAssemblyReference.cache
+E:\TEST\test2010C#\AForge\Sources\Math\obj\Debug\AForge.Math.dll
+E:\TEST\test2010C#\AForge\Sources\Math\obj\Debug\AForge.Math.pdb

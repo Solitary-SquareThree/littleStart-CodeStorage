@@ -1,0 +1,45 @@
+C:\Documents and Settings\Administrator\桌面\摄像头资料\AForge.NET Framework-2.2.4\Release\AForge.Controls.dll
+C:\Documents and Settings\Administrator\桌面\摄像头资料\AForge.NET Framework-2.2.4\Release\AForge.Controls.pdb
+C:\Documents and Settings\Administrator\桌面\摄像头资料\AForge.NET Framework-2.2.4\Release\AForge.Controls.xml
+C:\Documents and Settings\Administrator\桌面\摄像头资料\AForge.NET Framework-2.2.4\Sources\Controls\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\摄像头资料\AForge.NET Framework-2.2.4\Sources\Controls\obj\Debug\AForge.Controls.Chart.resources
+C:\Documents and Settings\Administrator\桌面\摄像头资料\AForge.NET Framework-2.2.4\Sources\Controls\obj\Debug\AForge.Controls.HistogramEventArgs.resources
+C:\Documents and Settings\Administrator\桌面\摄像头资料\AForge.NET Framework-2.2.4\Sources\Controls\obj\Debug\AForge.Controls.VideoSourcePlayer.resources
+C:\Documents and Settings\Administrator\桌面\摄像头资料\AForge.NET Framework-2.2.4\Sources\Controls\obj\Debug\AForge.Controls.HuePicker.resources
+C:\Documents and Settings\Administrator\桌面\摄像头资料\AForge.NET Framework-2.2.4\Sources\Controls\obj\Debug\AForge.Controls.SliderControl.resources
+C:\Documents and Settings\Administrator\桌面\摄像头资料\AForge.NET Framework-2.2.4\Sources\Controls\obj\Debug\AForge.Controls.ColorSlider.resources
+C:\Documents and Settings\Administrator\桌面\摄像头资料\AForge.NET Framework-2.2.4\Sources\Controls\obj\Debug\AForge.Controls.ManipulatorControl.resources
+C:\Documents and Settings\Administrator\桌面\摄像头资料\AForge.NET Framework-2.2.4\Sources\Controls\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Documents and Settings\Administrator\桌面\摄像头资料\AForge.NET Framework-2.2.4\Sources\Controls\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Documents and Settings\Administrator\桌面\摄像头资料\AForge.NET Framework-2.2.4\Sources\Controls\obj\Debug\AForge.Controls.dll
+C:\Documents and Settings\Administrator\桌面\摄像头资料\AForge.NET Framework-2.2.4\Sources\Controls\obj\Debug\AForge.Controls.pdb
+E:\TEST\test2010C#\Release\AForge.Controls.dll
+E:\TEST\test2010C#\Release\AForge.Controls.pdb
+E:\TEST\test2010C#\Release\AForge.Controls.xml
+E:\TEST\test2010C#\Sources\Controls\obj\Debug\ResolveAssemblyReference.cache
+E:\TEST\test2010C#\Sources\Controls\obj\Debug\AForge.Controls.Chart.resources
+E:\TEST\test2010C#\Sources\Controls\obj\Debug\AForge.Controls.HistogramEventArgs.resources
+E:\TEST\test2010C#\Sources\Controls\obj\Debug\AForge.Controls.VideoSourcePlayer.resources
+E:\TEST\test2010C#\Sources\Controls\obj\Debug\AForge.Controls.HuePicker.resources
+E:\TEST\test2010C#\Sources\Controls\obj\Debug\AForge.Controls.SliderControl.resources
+E:\TEST\test2010C#\Sources\Controls\obj\Debug\AForge.Controls.ColorSlider.resources
+E:\TEST\test2010C#\Sources\Controls\obj\Debug\AForge.Controls.ManipulatorControl.resources
+E:\TEST\test2010C#\Sources\Controls\obj\Debug\GenerateResource-ResGen.read.1.tlog
+E:\TEST\test2010C#\Sources\Controls\obj\Debug\GenerateResource-ResGen.write.1.tlog
+E:\TEST\test2010C#\Sources\Controls\obj\Debug\AForge.Controls.dll
+E:\TEST\test2010C#\Sources\Controls\obj\Debug\AForge.Controls.pdb
+E:\TEST\test2010C#\AForge\Release\AForge.Controls.dll
+E:\TEST\test2010C#\AForge\Release\AForge.Controls.pdb
+E:\TEST\test2010C#\AForge\Release\AForge.Controls.xml
+E:\TEST\test2010C#\AForge\Sources\Controls\obj\Debug\ResolveAssemblyReference.cache
+E:\TEST\test2010C#\AForge\Sources\Controls\obj\Debug\AForge.Controls.Chart.resources
+E:\TEST\test2010C#\AForge\Sources\Controls\obj\Debug\AForge.Controls.HistogramEventArgs.resources
+E:\TEST\test2010C#\AForge\Sources\Controls\obj\Debug\AForge.Controls.VideoSourcePlayer.resources
+E:\TEST\test2010C#\AForge\Sources\Controls\obj\Debug\AForge.Controls.HuePicker.resources
+E:\TEST\test2010C#\AForge\Sources\Controls\obj\Debug\AForge.Controls.SliderControl.resources
+E:\TEST\test2010C#\AForge\Sources\Controls\obj\Debug\AForge.Controls.ColorSlider.resources
+E:\TEST\test2010C#\AForge\Sources\Controls\obj\Debug\AForge.Controls.ManipulatorControl.resources
+E:\TEST\test2010C#\AForge\Sources\Controls\obj\Debug\GenerateResource-ResGen.read.1.tlog
+E:\TEST\test2010C#\AForge\Sources\Controls\obj\Debug\GenerateResource-ResGen.write.1.tlog
+E:\TEST\test2010C#\AForge\Sources\Controls\obj\Debug\AForge.Controls.dll
+E:\TEST\test2010C#\AForge\Sources\Controls\obj\Debug\AForge.Controls.pdb
