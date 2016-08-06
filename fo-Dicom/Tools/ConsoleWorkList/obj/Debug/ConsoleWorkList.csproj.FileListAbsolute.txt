@@ -1,0 +1,14 @@
+F:\TEST\TestDicomDemo\Tools\ConsoleWorkList\bin\Debug\ConsoleWorkList.exe
+F:\TEST\TestDicomDemo\Tools\ConsoleWorkList\bin\Debug\ConsoleWorkList.pdb
+F:\TEST\TestDicomDemo\Tools\ConsoleWorkList\bin\Debug\Dicom.dll
+F:\TEST\TestDicomDemo\Tools\ConsoleWorkList\bin\Debug\Dicom.pdb
+F:\TEST\TestDicomDemo\Tools\ConsoleWorkList\obj\Debug\ConsoleWorkList.csprojResolveAssemblyReference.cache
+F:\TEST\TestDicomDemo\Tools\ConsoleWorkList\obj\Debug\ConsoleWorkList.exe
+F:\TEST\TestDicomDemo\Tools\ConsoleWorkList\obj\Debug\ConsoleWorkList.pdb
+E:\GitHub\littleStart-CodeStorage\fo-Dicom\Tools\ConsoleWorkList\bin\Debug\ConsoleWorkList.exe
+E:\GitHub\littleStart-CodeStorage\fo-Dicom\Tools\ConsoleWorkList\bin\Debug\ConsoleWorkList.pdb
+E:\GitHub\littleStart-CodeStorage\fo-Dicom\Tools\ConsoleWorkList\bin\Debug\Dicom.dll
+E:\GitHub\littleStart-CodeStorage\fo-Dicom\Tools\ConsoleWorkList\bin\Debug\Dicom.pdb
+E:\GitHub\littleStart-CodeStorage\fo-Dicom\Tools\ConsoleWorkList\obj\Debug\ConsoleWorkList.csprojResolveAssemblyReference.cache
+E:\GitHub\littleStart-CodeStorage\fo-Dicom\Tools\ConsoleWorkList\obj\Debug\ConsoleWorkList.exe
+E:\GitHub\littleStart-CodeStorage\fo-Dicom\Tools\ConsoleWorkList\obj\Debug\ConsoleWorkList.pdb

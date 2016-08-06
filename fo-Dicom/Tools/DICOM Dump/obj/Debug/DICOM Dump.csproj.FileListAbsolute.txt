@@ -1,0 +1,34 @@
+F:\TEST\fo-Dicom\trunk\Tools\DICOM Dump\bin\Debug\Dicom.Dump.exe.config
+F:\TEST\fo-Dicom\trunk\Tools\DICOM Dump\bin\Debug\Dicom.Dump.exe
+F:\TEST\fo-Dicom\trunk\Tools\DICOM Dump\bin\Debug\Dicom.Dump.pdb
+F:\TEST\fo-Dicom\trunk\Tools\DICOM Dump\bin\Debug\Dicom.dll
+F:\TEST\fo-Dicom\trunk\Tools\DICOM Dump\bin\Debug\Dicom.pdb
+F:\TEST\fo-Dicom\trunk\Tools\DICOM Dump\obj\Debug\DICOM Dump.csprojResolveAssemblyReference.cache
+F:\TEST\fo-Dicom\trunk\Tools\DICOM Dump\obj\Debug\Dicom.Dump.DisplayForm.resources
+F:\TEST\fo-Dicom\trunk\Tools\DICOM Dump\obj\Debug\Dicom.Dump.MainForm.resources
+F:\TEST\fo-Dicom\trunk\Tools\DICOM Dump\obj\Debug\Dicom.Dump.Properties.Resources.resources
+F:\TEST\fo-Dicom\trunk\Tools\DICOM Dump\obj\Debug\DICOM Dump.csproj.GenerateResource.Cache
+F:\TEST\fo-Dicom\trunk\Tools\DICOM Dump\obj\Debug\Dicom.Dump.exe
+F:\TEST\fo-Dicom\trunk\Tools\DICOM Dump\obj\Debug\Dicom.Dump.pdb
+F:\TEST\TestDicomDemo\Tools\DICOM Dump\bin\Debug\Dicom.Dump.exe
+F:\TEST\TestDicomDemo\Tools\DICOM Dump\bin\Debug\Dicom.Dump.pdb
+F:\TEST\TestDicomDemo\Tools\DICOM Dump\bin\Debug\Dicom.dll
+F:\TEST\TestDicomDemo\Tools\DICOM Dump\bin\Debug\Dicom.pdb
+F:\TEST\TestDicomDemo\Tools\DICOM Dump\obj\Debug\DICOM Dump.csprojResolveAssemblyReference.cache
+F:\TEST\TestDicomDemo\Tools\DICOM Dump\obj\Debug\Dicom.Dump.DisplayForm.resources
+F:\TEST\TestDicomDemo\Tools\DICOM Dump\obj\Debug\Dicom.Dump.MainForm.resources
+F:\TEST\TestDicomDemo\Tools\DICOM Dump\obj\Debug\Dicom.Dump.Properties.Resources.resources
+F:\TEST\TestDicomDemo\Tools\DICOM Dump\obj\Debug\DICOM Dump.csproj.GenerateResource.Cache
+F:\TEST\TestDicomDemo\Tools\DICOM Dump\obj\Debug\Dicom.Dump.exe
+F:\TEST\TestDicomDemo\Tools\DICOM Dump\obj\Debug\Dicom.Dump.pdb
+E:\GitHub\littleStart-CodeStorage\fo-Dicom\Tools\DICOM Dump\bin\Debug\Dicom.Dump.exe
+E:\GitHub\littleStart-CodeStorage\fo-Dicom\Tools\DICOM Dump\bin\Debug\Dicom.Dump.pdb
+E:\GitHub\littleStart-CodeStorage\fo-Dicom\Tools\DICOM Dump\bin\Debug\Dicom.dll
+E:\GitHub\littleStart-CodeStorage\fo-Dicom\Tools\DICOM Dump\bin\Debug\Dicom.pdb
+E:\GitHub\littleStart-CodeStorage\fo-Dicom\Tools\DICOM Dump\obj\Debug\DICOM Dump.csprojResolveAssemblyReference.cache
+E:\GitHub\littleStart-CodeStorage\fo-Dicom\Tools\DICOM Dump\obj\Debug\Dicom.Dump.DisplayForm.resources
+E:\GitHub\littleStart-CodeStorage\fo-Dicom\Tools\DICOM Dump\obj\Debug\Dicom.Dump.MainForm.resources
+E:\GitHub\littleStart-CodeStorage\fo-Dicom\Tools\DICOM Dump\obj\Debug\Dicom.Dump.Properties.Resources.resources
+E:\GitHub\littleStart-CodeStorage\fo-Dicom\Tools\DICOM Dump\obj\Debug\DICOM Dump.csproj.GenerateResource.Cache
+E:\GitHub\littleStart-CodeStorage\fo-Dicom\Tools\DICOM Dump\obj\Debug\Dicom.Dump.exe
+E:\GitHub\littleStart-CodeStorage\fo-Dicom\Tools\DICOM Dump\obj\Debug\Dicom.Dump.pdb

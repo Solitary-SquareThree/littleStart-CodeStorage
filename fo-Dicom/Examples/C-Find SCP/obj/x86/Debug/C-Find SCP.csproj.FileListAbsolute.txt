@@ -1,0 +1,26 @@
+F:\TEST\fo-Dicom\trunk\C-Find SCP\bin\Debug\C-Find SCP.exe
+F:\TEST\fo-Dicom\trunk\C-Find SCP\bin\Debug\C-Find SCP.pdb
+F:\TEST\fo-Dicom\trunk\C-Find SCP\bin\Debug\Dicom.dll
+F:\TEST\fo-Dicom\trunk\C-Find SCP\bin\Debug\Dicom.pdb
+F:\TEST\fo-Dicom\trunk\C-Find SCP\obj\x86\Debug\C-Find SCP.csprojResolveAssemblyReference.cache
+F:\TEST\fo-Dicom\trunk\C-Find SCP\obj\x86\Debug\C-Find SCP.exe
+F:\TEST\fo-Dicom\trunk\C-Find SCP\obj\x86\Debug\C-Find SCP.pdb
+F:\TEST\TestDicomDemo\C-Find SCP\bin\Debug\C-Find SCP.exe
+F:\TEST\TestDicomDemo\C-Find SCP\bin\Debug\C-Find SCP.pdb
+F:\TEST\TestDicomDemo\C-Find SCP\bin\Debug\Dicom.dll
+F:\TEST\TestDicomDemo\C-Find SCP\bin\Debug\Dicom.pdb
+F:\TEST\TestDicomDemo\C-Find SCP\obj\x86\Debug\C-Find SCP.exe
+F:\TEST\TestDicomDemo\C-Find SCP\obj\x86\Debug\C-Find SCP.pdb
+F:\TEST\TestDicomDemo\Examples\C-Find SCP\bin\Debug\C-Find SCP.exe
+F:\TEST\TestDicomDemo\Examples\C-Find SCP\bin\Debug\C-Find SCP.pdb
+F:\TEST\TestDicomDemo\Examples\C-Find SCP\bin\Debug\Dicom.dll
+F:\TEST\TestDicomDemo\Examples\C-Find SCP\bin\Debug\Dicom.pdb
+F:\TEST\TestDicomDemo\Examples\C-Find SCP\obj\x86\Debug\C-Find SCP.exe
+F:\TEST\TestDicomDemo\Examples\C-Find SCP\obj\x86\Debug\C-Find SCP.pdb
+E:\GitHub\littleStart-CodeStorage\fo-Dicom\Examples\C-Find SCP\bin\Debug\C-Find SCP.exe
+E:\GitHub\littleStart-CodeStorage\fo-Dicom\Examples\C-Find SCP\bin\Debug\C-Find SCP.pdb
+E:\GitHub\littleStart-CodeStorage\fo-Dicom\Examples\C-Find SCP\bin\Debug\Dicom.dll
+E:\GitHub\littleStart-CodeStorage\fo-Dicom\Examples\C-Find SCP\bin\Debug\Dicom.pdb
+E:\GitHub\littleStart-CodeStorage\fo-Dicom\Examples\C-Find SCP\obj\x86\Debug\C-Find SCP.csprojResolveAssemblyReference.cache
+E:\GitHub\littleStart-CodeStorage\fo-Dicom\Examples\C-Find SCP\obj\x86\Debug\C-Find SCP.exe
+E:\GitHub\littleStart-CodeStorage\fo-Dicom\Examples\C-Find SCP\obj\x86\Debug\C-Find SCP.pdb

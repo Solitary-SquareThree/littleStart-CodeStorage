@@ -1,0 +1,20 @@
+F:\TEST\fo-Dicom\trunk\Examples\DICOM Media\bin\Debug\Dicom.Media.exe.config
+F:\TEST\fo-Dicom\trunk\Examples\DICOM Media\bin\Debug\Dicom.Media.exe
+F:\TEST\fo-Dicom\trunk\Examples\DICOM Media\bin\Debug\Dicom.Media.pdb
+F:\TEST\fo-Dicom\trunk\Examples\DICOM Media\bin\Debug\Dicom.dll
+F:\TEST\fo-Dicom\trunk\Examples\DICOM Media\bin\Debug\Dicom.pdb
+F:\TEST\fo-Dicom\trunk\Examples\DICOM Media\obj\Debug\DICOM Media.csprojResolveAssemblyReference.cache
+F:\TEST\fo-Dicom\trunk\Examples\DICOM Media\obj\Debug\Dicom.Media.exe
+F:\TEST\fo-Dicom\trunk\Examples\DICOM Media\obj\Debug\Dicom.Media.pdb
+F:\TEST\TestDicomDemo\Examples\DICOM Media\bin\Debug\Dicom.Media.exe
+F:\TEST\TestDicomDemo\Examples\DICOM Media\bin\Debug\Dicom.Media.pdb
+F:\TEST\TestDicomDemo\Examples\DICOM Media\bin\Debug\Dicom.dll
+F:\TEST\TestDicomDemo\Examples\DICOM Media\bin\Debug\Dicom.pdb
+F:\TEST\TestDicomDemo\Examples\DICOM Media\obj\Debug\Dicom.Media.exe
+F:\TEST\TestDicomDemo\Examples\DICOM Media\obj\Debug\Dicom.Media.pdb
+E:\GitHub\littleStart-CodeStorage\fo-Dicom\Examples\DICOM Media\bin\Debug\Dicom.Media.exe
+E:\GitHub\littleStart-CodeStorage\fo-Dicom\Examples\DICOM Media\bin\Debug\Dicom.Media.pdb
+E:\GitHub\littleStart-CodeStorage\fo-Dicom\Examples\DICOM Media\bin\Debug\Dicom.dll
+E:\GitHub\littleStart-CodeStorage\fo-Dicom\Examples\DICOM Media\bin\Debug\Dicom.pdb
+E:\GitHub\littleStart-CodeStorage\fo-Dicom\Examples\DICOM Media\obj\Debug\Dicom.Media.exe
+E:\GitHub\littleStart-CodeStorage\fo-Dicom\Examples\DICOM Media\obj\Debug\Dicom.Media.pdb
