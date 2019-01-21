@@ -1,9 +1,0 @@
-E:\TEST\test2010C#\AForge\Release\CameraActiveX.dll
-E:\TEST\test2010C#\AForge\Release\CameraActiveX.pdb
-E:\TEST\test2010C#\AForge\Release\CameraActiveX.tlb
-E:\TEST\test2010C#\AForge\Sources\CameraActiveX\obj\Release\ResolveAssemblyReference.cache
-E:\TEST\test2010C#\AForge\Sources\CameraActiveX\obj\Release\CameraActiveX.UCCameraPlayer.resources
-E:\TEST\test2010C#\AForge\Sources\CameraActiveX\obj\Release\GenerateResource-ResGen.read.1.tlog
-E:\TEST\test2010C#\AForge\Sources\CameraActiveX\obj\Release\GenerateResource-ResGen.write.1.tlog
-E:\TEST\test2010C#\AForge\Sources\CameraActiveX\obj\Release\CameraActiveX.dll
-E:\TEST\test2010C#\AForge\Sources\CameraActiveX\obj\Release\CameraActiveX.pdb

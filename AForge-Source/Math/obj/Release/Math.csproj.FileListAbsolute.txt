@@ -1,6 +1,0 @@
-E:\TEST\test2010C#\AForge\Release\AForge.Math.dll
-E:\TEST\test2010C#\AForge\Release\AForge.Math.pdb
-E:\TEST\test2010C#\AForge\Release\AForge.Math.xml
-E:\TEST\test2010C#\AForge\Sources\Math\obj\Release\ResolveAssemblyReference.cache
-E:\TEST\test2010C#\AForge\Sources\Math\obj\Release\AForge.Math.dll
-E:\TEST\test2010C#\AForge\Sources\Math\obj\Release\AForge.Math.pdb

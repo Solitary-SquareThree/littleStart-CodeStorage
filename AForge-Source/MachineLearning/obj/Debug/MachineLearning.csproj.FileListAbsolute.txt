@@ -1,6 +1,0 @@
-C:\Documents and Settings\Administrator\桌面\摄像头资料\AForge.NET Framework-2.2.4\Release\AForge.MachineLearning.dll
-C:\Documents and Settings\Administrator\桌面\摄像头资料\AForge.NET Framework-2.2.4\Release\AForge.MachineLearning.pdb
-C:\Documents and Settings\Administrator\桌面\摄像头资料\AForge.NET Framework-2.2.4\Release\AForge.MachineLearning.xml
-C:\Documents and Settings\Administrator\桌面\摄像头资料\AForge.NET Framework-2.2.4\Sources\MachineLearning\obj\Debug\ResolveAssemblyReference.cache
-C:\Documents and Settings\Administrator\桌面\摄像头资料\AForge.NET Framework-2.2.4\Sources\MachineLearning\obj\Debug\AForge.MachineLearning.dll
-C:\Documents and Settings\Administrator\桌面\摄像头资料\AForge.NET Framework-2.2.4\Sources\MachineLearning\obj\Debug\AForge.MachineLearning.pdb

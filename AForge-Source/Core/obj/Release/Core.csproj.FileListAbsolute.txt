@@ -1,6 +1,0 @@
-E:\TEST\test2010C#\AForge\Release\AForge.dll
-E:\TEST\test2010C#\AForge\Release\AForge.pdb
-E:\TEST\test2010C#\AForge\Release\AForge.xml
-E:\TEST\test2010C#\AForge\Sources\Core\obj\Release\ResolveAssemblyReference.cache
-E:\TEST\test2010C#\AForge\Sources\Core\obj\Release\AForge.dll
-E:\TEST\test2010C#\AForge\Sources\Core\obj\Release\AForge.pdb

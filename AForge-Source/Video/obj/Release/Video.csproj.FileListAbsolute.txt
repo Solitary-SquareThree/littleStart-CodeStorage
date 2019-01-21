@@ -1,6 +1,0 @@
-E:\TEST\test2010C#\AForge\Release\AForge.Video.dll
-E:\TEST\test2010C#\AForge\Release\AForge.Video.pdb
-E:\TEST\test2010C#\AForge\Release\AForge.Video.xml
-E:\TEST\test2010C#\AForge\Sources\Video\obj\Release\ResolveAssemblyReference.cache
-E:\TEST\test2010C#\AForge\Sources\Video\obj\Release\AForge.Video.dll
-E:\TEST\test2010C#\AForge\Sources\Video\obj\Release\AForge.Video.pdb

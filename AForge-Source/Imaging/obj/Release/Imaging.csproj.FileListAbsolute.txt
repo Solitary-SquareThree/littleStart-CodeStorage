@@ -1,6 +1,0 @@
-E:\TEST\test2010C#\AForge\Release\AForge.Imaging.dll
-E:\TEST\test2010C#\AForge\Release\AForge.Imaging.pdb
-E:\TEST\test2010C#\AForge\Release\AForge.Imaging.xml
-E:\TEST\test2010C#\AForge\Sources\Imaging\obj\Release\ResolveAssemblyReference.cache
-E:\TEST\test2010C#\AForge\Sources\Imaging\obj\Release\AForge.Imaging.dll
-E:\TEST\test2010C#\AForge\Sources\Imaging\obj\Release\AForge.Imaging.pdb
